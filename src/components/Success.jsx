@@ -14,6 +14,6 @@ export default function Success() {
                     </div>
                 </Col>
             </Row>
-
+        </Container>
     );
 } 
